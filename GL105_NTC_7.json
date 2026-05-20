@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "GL105_NTC_7": {
+      "version": "1.1",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL105_NTC_7/main/1.1.bin",
+      "force": false
+    }
+  }
+}
